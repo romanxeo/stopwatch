@@ -97,7 +97,7 @@ function App() {
             </div>
             <div>
                 <button onClick={startStopHandler}>Start / Stop</button>
-                <button onClick={waitHandler}>Wait</button>
+                <button onClick={waitHandler}>Wait/</button>
                 <button onClick={resetHandler}>Reset</button>
             </div>
         </div>
